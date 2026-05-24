@@ -9,6 +9,7 @@ updated: 2026-05-24
 Active builds. Each project gets its own file using `_template.md`.
 
 ## Active Projects
+
 | Project | What It Is | Next Action | Last Touched |
 |---------|------------|-------------|--------------|
-|         |            |             |              |
+| [[15-gallerise\|Gallerise]] | 3D walkable pixel art gallery | | |

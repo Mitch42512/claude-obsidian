@@ -10,4 +10,4 @@ Live projects. Shipped.
 
 | Project | What It Does | URL | Launched | Status |
 |---------|--------------|-----|----------|--------|
-|         |              |     |          | Active |
+| [[02-timesheet-app\|Timesheet App]] | Time tracking across projects/clients | | 2025-04-11 | Active |

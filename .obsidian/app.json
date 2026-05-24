@@ -4,10 +4,10 @@
     "commands/",
     "hooks/",
     "skills/",
+    "scripts/",
     "_templates/",
     "README.md",
     "CLAUDE.md",
-    "WIKI.md",
     "Welcome.md"
   ]
 }
