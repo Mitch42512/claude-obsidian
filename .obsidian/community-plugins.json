@@ -1,6 +1,8 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-banners",
   "calendar",
-  "thino"
+  "thino",
+  "obsidian-excalidraw-plugin",
+  "realclaudian",
+  "obsidian-local-rest-api"
 ]
