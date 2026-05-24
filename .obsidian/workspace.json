@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/AI/index.md",
+                "file": "Projects/Recipes/Simple Meals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Simple Meals"
             }
           }
         ]
@@ -202,8 +202,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5565f1231fe95c42",
+  "active": "a31de1b302cdc5cf",
   "lastOpenFiles": [
+    "Projects/Recipes/Main Meals.md",
+    "Projects/App Ideas/Brainstorm/25-minimalistic-poker.md",
+    "Projects/Recipes/Staples.md",
+    "Projects/Recipes/Simple Meals.md",
+    "Hobbies/Drawing/Things to Draw.md",
+    "Personal/AI/index.md",
     "Makefile.tmp.33992.7df473bf158d",
     "Makefile.tmp.33992.fdefaa6e6edd",
     "Plugin/index.md",
@@ -220,14 +226,12 @@
     "Plugin/bin/setup-multi-agent.sh",
     "Plugin/bin/setup-vault.sh",
     "Plugin/bin/setup-dragonscale.sh",
-    "Plugin/bin",
     "Plugin/docs/releases/v1.6.0.md",
     "Plugin/docs/install-guide.md",
     "Plugin/docs/dragonscale-guide.md",
     "Projects/App Ideas/Launched/index.md",
     "Projects/App Ideas/Work in Progress/index.md",
     "Projects/App Ideas/Brainstorm/index.md",
-    "Projects/App Ideas/Brainstorm/25-minimalistic-poker.md",
     "Projects/App Ideas/Brainstorm/24-tier-list-app.md",
     "Projects/App Ideas/Brainstorm/23-last-meal-app.md",
     "Projects/App Ideas/Brainstorm/22-grannys-tips-app.md",
@@ -236,10 +240,6 @@
     "Projects/App Ideas/Launched/02-timesheet-app.md",
     "Projects/App Ideas/Work in Progress/15-gallerise.md",
     "Projects/App Ideas/Brainstorm/20-flashcard-memory-app.md",
-    "Projects/App Ideas/Brainstorm/19-cold-call-website-builder.md",
-    "Projects/App Ideas/Brainstorm/18-quotes-vocabulary-app.md",
-    "Projects/App Ideas/Brainstorm/17-frog-empire-mailing-list.md",
-    "Projects/App Ideas/Brainstorm/16-drawing-playing-cards.md",
     "wiki/canvases/youtube-explainer.canvas",
     "wiki/canvases/welcome.canvas",
     "wiki/canvases/main.canvas",
